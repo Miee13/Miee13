@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![banner](https://media1.tenor.com/m/e13or42n6T8AAAAC/phoebe-pinch.gif)
 
-🌱 I’m currently learning HTML, Java
+🌱 I’m currently learning HTML, CSS
