@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media1.tenor.com/m/e13or42n6T8AAAAC/phoebe-pinch.gif"  />
+  <img height="150" src="img/github-header-image (1).png"  />
 </div>
 
 ###
