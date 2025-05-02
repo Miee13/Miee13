@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 #### Connect With Me
 
-![https://www.facebook.com/fahmi.hidyt.5](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) ![https://www.instagram.com/orgamiee/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://steamcommunity.com/id/mckjay_/](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fahmi.hidyt.5) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/orgamiee/) [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/mckjay_/)
